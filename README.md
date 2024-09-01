@@ -4,11 +4,11 @@
 
 <div align="center">
 
-# 👋안녕하세요👋
+# 👋Hi!👋
 
 주니어 프론트엔드 개발자 안성민입니다.  
 
-## 🚀 기술 스택
+## 🚀 Stack
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
