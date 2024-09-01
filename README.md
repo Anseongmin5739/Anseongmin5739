@@ -26,6 +26,6 @@
 
 ## 📌 Tistory
 
-[![Tistory Blog](https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://your-tistory-link.com)
+[![Tistory Blog](https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=tistory&logoColor=white)]([https://your-tistory-link.com](https://smahn4069.tistory.com/))
 
 
